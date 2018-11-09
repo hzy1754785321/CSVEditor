@@ -1,0 +1,10 @@
+c:\users\ychi\source\repos\CSV\CSV\bin\Debug\CSV.exe.config
+c:\users\ychi\source\repos\CSV\CSV\bin\Debug\CSV.exe
+c:\users\ychi\source\repos\CSV\CSV\bin\Debug\CSV.pdb
+c:\users\ychi\source\repos\CSV\CSV\obj\Debug\CSV.csprojResolveAssemblyReference.cache
+c:\users\ychi\source\repos\CSV\CSV\obj\Debug\CSV.csproj.CoreCompileInputs.cache
+c:\users\ychi\source\repos\CSV\CSV\obj\Debug\CSV.exe
+c:\users\ychi\source\repos\CSV\CSV\obj\Debug\CSV.pdb
+c:\users\ychi\source\repos\CSV\CSV\bin\Debug\Newtonsoft.Json.dll
+c:\users\ychi\source\repos\CSV\CSV\bin\Debug\Newtonsoft.Json.xml
+c:\users\ychi\source\repos\CSV\CSV\obj\Debug\CSV.csproj.CopyComplete
