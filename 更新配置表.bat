@@ -1,2 +1,2 @@
-C:\Users\ychi\source\repos\CSV\tools\ServerCsvBuilder.exe -server table C:\Users\ychi\source\repos\CSV\CSV\GameTable_Gen.cs Newtonsoft;System.IO CSV TElf_±¦¿ÉÃÎ.csv
+ç›®å½•\CSV\tools\ServerCsvBuilder.exe -server table ç›®å½•CSV\CSV\GameTable_Gen.cs Newtonsoft;System.IO CSV TElf_Â±Â¦Â¿Ã‰ÃƒÃŽ.csv
 pause
